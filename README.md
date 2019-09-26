@@ -1,2 +1,2 @@
 ## Chapter 12: Stochastic Processes
-- Coming Soon
+- [Homogeneous Poisson Process](https://github.com/EducationShinyAppTeam/Homogeneous_Poisson_Process)
