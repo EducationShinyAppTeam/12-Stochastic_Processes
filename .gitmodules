@@ -1,3 +1,6 @@
 [submodule "Homogeneous_Poisson_Process"]
 	path = Homogeneous_Poisson_Process
 	url = ../Homogeneous_Poisson_Process
+[submodule "Nonhomogeneous_Poisson_Process"]
+	path = Nonhomogeneous_Poisson_Process
+	url = ../Nonhomogeneous_Poisson_Process
