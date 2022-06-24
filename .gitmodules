@@ -4,3 +4,6 @@
 [submodule "Nonhomogeneous_Poisson_Process"]
 	path = Nonhomogeneous_Poisson_Process
 	url = ../Nonhomogeneous_Poisson_Process
+[submodule "Markov_Chain_Convergence"]
+	path = Markov_Chain_Convergence
+	url = ../Markov_Chain_Convergence
